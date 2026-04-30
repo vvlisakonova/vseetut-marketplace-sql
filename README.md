@@ -19,7 +19,7 @@
 
 ```
 vseetut-marketplace-sql/
-├── VseTut_project_ValentinaLisakonova.sql   # основной файл с запросами
+├── vseetut_analysis.sql   # основной файл с запросами
 └── README.md                                 # описание проекта
 ```
 
